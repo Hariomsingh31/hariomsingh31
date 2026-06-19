@@ -88,6 +88,9 @@
 
 </div>
 
+## 🏅 Achievements
+[![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-blueviolet?style=for-the-badge&logo=github)](https://github.com/Hariomsingh31?tab=achievements)
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
